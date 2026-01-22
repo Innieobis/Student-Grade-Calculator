@@ -1,0 +1,25 @@
+SDLC for Calculator Project
+
+1. Requirements:
+   - User should be able to add, subtract, multiply, divide.
+   - Input numbers from user.
+   - Display result.
+
+2. Design:
+   - Functions for each operation:
+     add(a, b), subtract(a, b), multiply(a, b), divide(a, b)
+   - Main menu for user input.
+   
+3. Implementation:
+   - Write Python code using functions.
+
+4. Testing:
+   - Test with positive, negative numbers, zero.
+   - Ensure division by zero is handled.
+
+5. Deployment:
+   - Push code to GitHub for access.
+   - Run program online or on local machine.
+
+6. Maintenance:
+   - Add new features (power, square root) in the future.
